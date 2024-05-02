@@ -1,3 +1,4 @@
+https://github-profile-trophy.vercel.app/?username=ibra56-ma&no-bg=true
 <h1 align="center">Hi 👋, I'm Nnyenje Ibrahim</h1>
 <h3 align="center">A passionate full Stack developer from Uganda</h3>
 
